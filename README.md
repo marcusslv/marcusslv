@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**marcusslv/marcusslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Sou **Marcus Silva**, Engenheiro de Software apaixonado por desenvolvimento e Arquitetura de Software. Tenho experiência na criação de soluções escaláveis e eficientes, utilizando tecnologias modernas para impulsionar negócios.
 
-Here are some ideas to get you started:
+🎓 **Formação**: Bacharel em Sistemas de Informação | Pós-graduando Lato Sensu em Engenharia de Software  
+💻 **Especialidades**: Laravel, Vue.js, Nuxt.js, APIs, Arquitetura de Software, Boas Práticas de Desenvolvimento  
+🌍 **Comunidade**: Ativo em mentorias e compartilhamento de conhecimento na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 O que você encontrará aqui?
+- Repositórios com projetos práticos e aplicados
+- Estudos sobre **boas práticas**, **performance** e **integrações com APIs**
+- Contribuições para a comunidade de desenvolvimento
+
+## 📫 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Silva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcusslv/)  
+<!-- [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=flat-square&logo=google-chrome)](https://seuportfolio.com) -->  
+
+🚀 *Construindo soluções que impulsionam negócios.*
+
