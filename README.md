@@ -12,14 +12,14 @@ Sou **Marcus Silva**, Engenheiro de Software apaixonado por desenvolvimento e Ar
 - Estudos sobre **boas práticas**, **performance** e **integrações com APIs**
 - Contribuições para a comunidade de desenvolvimento
 
-## 📊 Estatísticas do GitHub
+<!--## 📊 Estatísticas do GitHub
 
 <!-- Exibe estatísticas gerais do perfil 
 [![Marcus Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusslv&show_icons=true&theme=dracula)](https://github.com/marcusslv)-->
 
-<!-- Mostra as linguagens mais utilizadas nos repositórios públicos -->
+<!-- Mostra as linguagens mais utilizadas nos repositórios públicos 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusslv&layout=compact&theme=dracula)](https://github.com/marcusslv)
-
+-->
 
 ## 📫 Conecte-se Comigo
 
