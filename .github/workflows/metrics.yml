@@ -53,6 +53,7 @@ jobs:
           user: marcusslv
           template: classic
           base: ""
+          debug: yes
           config_timezone: America/Sao_Paulo
 
           plugin_habits: yes
