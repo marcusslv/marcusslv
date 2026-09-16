@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-marcusslv-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil%20(UTC--3)-2F855A?style=flat-square" alt="Localização">
-  <a href="mailto:contato@marcusslv.dev">
+  <a href="mailto:SEU-EMAIL@exemplo.com">
     <img src="https://img.shields.io/badge/E--mail-contato-333333?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
@@ -64,11 +64,14 @@ Construo backends e APIs em PHP/Laravel com foco em separação de responsabilid
 
 ---
 
-## GitHub
+## Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcusslv&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusslv&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Linguagens mais usadas">
+  <img src="./metrics.svg" alt="Métricas do GitHub">
+</p>
+
+<p align="center">
+  <img src="./metrics.habits.svg" alt="Hábitos de código">
 </p>
 
 ---
@@ -77,4 +80,4 @@ Construo backends e APIs em PHP/Laravel com foco em separação de responsabilid
 
 Aberto a trocar sobre arquitetura, revisão de código e mentoria.
 
-<a href="https://www.linkedin.com/in/marcusslv/">LinkedIn</a> · <a href="mailto:contato@marcusslv.dev">E-mail</a>
+<a href="https://www.linkedin.com/in/marcusslv/">LinkedIn</a> · <a href="mailto:SEU-EMAIL@exemplo.com">E-mail</a>
