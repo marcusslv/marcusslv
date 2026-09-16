@@ -71,10 +71,6 @@ Construo backends e APIs em PHP/Laravel com foco em separação de responsabilid
   <img src="./metrics.svg" alt="Métricas do GitHub">
 </p>
 
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Hábitos de código">
-</p>
-
 ---
 
 ## Vamos conversar
