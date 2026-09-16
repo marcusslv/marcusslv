@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/marcusslv/">
     <img src="https://img.shields.io/badge/LinkedIn-marcusslv-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil%20(UTC--3)-2F855A?style=flat-square" alt="Localização">
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Governador%20Valadares%2C%20MG-2F855A?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização: Governador Valadares, MG">
+  <img src="https://img.shields.io/badge/Fuso-UTC--3-2F855A?style=flat-square" alt="Fuso horário UTC-3">
   <a href="mailto:contato@marcusslv.dev">
     <img src="https://img.shields.io/badge/E--mail-contato-333333?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
