@@ -30,12 +30,13 @@ Construo backends e APIs em PHP/Laravel com foco em separação de responsabilid
 
 ## Projetos em destaque
 
+O `laravel-domain-generator` é o único distribuído como biblioteca instalável, com licença MIT, testes e integração contínua.
+
 | Projeto | O que resolve | Stack |
 | --- | --- | --- |
-| **[abstractor](https://github.com/marcusslv/abstractor)** | Biblioteca PHP que gera classes abstratas e de domínio reutilizáveis para projetos Laravel, cortando o boilerplate inicial de uma camada de domínio. | PHP · Laravel |
-| **[edu-stream](https://github.com/marcusslv/edu-stream)** | Estudo de arquitetura para uma plataforma de streaming por assinatura: modelagem de domínio, atores e decisões de design documentadas. | PHP · Laravel |
+| **[laravel-domain-generator](https://github.com/marcusslv/laravel-domain-generator)** | Pacote publicado no Packagist. Gera a estrutura completa de um domínio Laravel com um comando Artisan: entity, repository, service, controller, interface, migration, factory e seeder. | PHP · Laravel |
+| **[architecture-knowledge](https://github.com/marcusslv/architecture-knowledge)** | Notas e material de referência sobre arquitetura de software: padrões, decisões de design e anotações de estudo organizadas para consulta. | Documentação |
 | **[laravel-auth-api-template](https://github.com/marcusslv/laravel-auth-api-template)** | Template base de API em Laravel com autenticação, controle de acesso e logging já implementados, para não recomeçar do zero a cada projeto. | PHP · Laravel |
-| **[codehubmvs](https://github.com/marcusslv/codehubmvs)** | Conjunto de microsserviços usado para exercitar comunicação entre serviços, fronteiras de contexto e deploy independente. | PHP · Docker |
 | **[AutoEstoque](https://github.com/marcusslv/AutoEstoque)** | Aplicação de controle de estoque construída para avaliar o uso de IA no desenvolvimento com DDD + Clean Architecture. | PHP · Docker |
 
 ---
